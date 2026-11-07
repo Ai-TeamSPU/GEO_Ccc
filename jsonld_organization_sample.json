@@ -1,0 +1,37 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CollegeOrUniversity",
+  "@id": "https://www.spu.ac.th/#organization",
+  "name": "มหาวิทยาลัยศรีปทุม",
+  "alternateName": ["Sripatum University", "SPU", "ม.ศรีปทุม"],
+  "url": "https://www.spu.ac.th/",
+  "description": "มหาวิทยาลัยศรีปทุม (SPU) คือมหาวิทยาลัยเอกชนที่เปิดสอนปริญญาตรี 47 สาขา ให้ผู้จบ ม.6 ปวช. กศน. และ ปวส. ที่บางเขน กรุงเทพฯ ติดสถานี BTS บางบัว วิทยาเขตชลบุรีและขอนแก่น",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2410/2 ถนนพหลโยธิน",
+    "addressLocality": "แขวงเสนานิคม เขตจตุจักร",
+    "addressRegion": "กรุงเทพมหานคร",
+    "postalCode": "10900",
+    "addressCountry": "TH"
+  },
+  "telephone": "+66-2-558-6888",
+  "email": "admissions@spu.ac.th",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "admissions",
+      "telephone": "+66-2-558-6888",
+      "email": "admissions@spu.ac.th",
+      "availableLanguage": "th"
+    }
+  ],
+  "sameAs": [
+    "https://www.facebook.com/SPUsripatumuniversity",
+    "https://www.instagram.com/sripatum_university/",
+    "https://www.tiktok.com/@sripatum.spu",
+    "https://www.youtube.com/channel/UCrXai9P4Weq5z91t2hJEI4g",
+    "https://www.linkedin.com/school/15100977",
+    "https://www.pinterest.com/sripatumunivers/",
+    "https://lin.ee/BEbNr4r"
+  ]
+}
